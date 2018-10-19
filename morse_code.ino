@@ -1,5 +1,5 @@
 //int ledPin = LED_BUILTIN;
-int ledPin = 0;
+int ledPin = 13;
 int ditDelay = 150;
 int dahDelay = ditDelay * 3;
 int letterDelay = ditDelay * 3;

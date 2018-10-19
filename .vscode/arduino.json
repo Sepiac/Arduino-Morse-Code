@@ -1,6 +1,5 @@
 {
-    "board": "attiny:avr:attiny",
-    "configuration": "cpu=attiny85,clock=internal1",
+    "board": "arduino:avr:uno",
     "sketch": "morse_code.ino",
-    "port": "COM1"
+    "port": "COM3"
 }

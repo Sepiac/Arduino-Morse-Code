@@ -6,9 +6,7 @@
                 "C:\\Program Files (x86)\\Arduino\\tools\\**",
                 "C:\\Users\\Dane\\Documents\\Arduino\\hardware\\attiny\\avr\\**"
             ],
-            "forcedInclude": [
-                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
-            ],
+            "forcedInclude": [],
             "intelliSenseMode": "msvc-x64"
         }
     ],
